@@ -1,4 +1,4 @@
-## Flatiron Store Review- Overview
+# Video Review — Debugging Association and Authentication Errors in Flatiron Store
 
 This video review lesson covers many of the concepts that you've learned about in this topic so far. To get the most out of these videos we recommend that you complete the Readings and Labs that come before it. 
 
@@ -37,4 +37,4 @@ Do you think this video would be better if it were somewhere else in the curricu
 Any other comments or feedback you have? Raise an issue and let us know. 
 
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/rails-video-review-flatiron-store-review'>Rails Video Review: Flatiron Store Review </a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/rails-video-review-flatiron-store-review'>Video Review — Debugging Association and Authentication Errors in Flatiron Store</a> on Learn.co and start learning to code for free.</p>
